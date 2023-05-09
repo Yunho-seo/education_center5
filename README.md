@@ -8,3 +8,5 @@
 05.04 => pandas(판다스) 기초
 
 05.08 => 데이터 전처리
+
+05.09 => 데이터 분석 및 데이터 요약 (value_count, groupby, crosstab, pivot, pivot_table)
