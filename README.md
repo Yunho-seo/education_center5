@@ -12,3 +12,5 @@
 05.09 => 데이터 분석 및 데이터 요약 (value_count, groupby, crosstab, pivot, pivot_table)
 
 05.10 => 비지도학습: 시계열 분석
+
+05.11 => 데이터 시각화 (Matplotlib 시각화, 여러가지 그래프)
