@@ -17,4 +17,6 @@
 
 05.12 => scipy와 수치 해석
 
-05.17 => scikit-learn 구조 (1일차)
+05.17 => scikit-learn 구조
+
+05.18 => sklearn 구조, 트리 분석, 변수 선택법, Bagging
