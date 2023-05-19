@@ -20,3 +20,5 @@
 05.17 => scikit-learn 구조
 
 05.18 => sklearn 구조, 트리 분석, 변수 선택법, Bagging
+
+05.19 => XGBoost
