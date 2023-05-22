@@ -22,3 +22,5 @@
 05.18 => sklearn 구조, 트리 분석, 변수 선택법, Bagging
 
 05.19 => XGBoost
+
+05.22 => 거리 기반 모델(KNN, K-means 클러스터링)
