@@ -26,3 +26,5 @@
 05.22 => 거리 기반 모델(KNN, K-means 클러스터링)
 
 05.23 => 차원축소(Decomposition, dimension reduction)와 다양체(manifold)
+
+05.24 => 신경망(Multi-layer perceptron), Activation function(sigmoid, tanh, relu, softmax), MLPClassifier, solver
