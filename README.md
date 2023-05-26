@@ -28,3 +28,5 @@
 05.23 => 차원축소(Decomposition, dimension reduction)와 다양체(manifold)
 
 05.24 => 신경망(Multi-layer perceptron), Activation function(sigmoid, tanh, relu, softmax), MLPClassifier, solver
+
+05.25 => TM 통합, Vector space representation of documents
